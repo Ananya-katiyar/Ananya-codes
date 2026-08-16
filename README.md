@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

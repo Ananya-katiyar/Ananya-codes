@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0205-isomorphic-strings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
+## Matrix
+|  |
+| ------- |
+| [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 <!---LeetCode Topics End-->

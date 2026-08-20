@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0005-longest-palindromic-substring) |
+| [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

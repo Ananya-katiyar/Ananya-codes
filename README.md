@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0152-maximum-product-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0152-maximum-product-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |

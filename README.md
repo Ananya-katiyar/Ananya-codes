@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1143-longest-common-subsequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

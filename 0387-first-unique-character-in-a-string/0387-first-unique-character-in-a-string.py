@@ -1,8 +1,13 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        mp = Counter(s)
-        for key, value in mp.items():
-            if value == 1:
-                idx = s.find(key)
-                return idx
+        n = len(s)
+        freq = [0] * 26
+        for i in range(n):
+            freq[ord(s[i]) - ord('a')] += 1
+            """idx = ord(s[i]) - ord('a')
+            freq[idx] += 1"""
+        for i in range(n):
+            if freq[ord(s[i]) - ord('a')] == 1:
+                return i
         return -1
+        

@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -120,8 +122,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0021-merge-two-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

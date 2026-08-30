@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
+| [1845-seat-reservation-manager](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1845-seat-reservation-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [1845-seat-reservation-manager](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1845-seat-reservation-manager) |
 <!---LeetCode Topics End-->

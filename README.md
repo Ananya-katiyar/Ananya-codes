@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
 ## Sliding Window
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

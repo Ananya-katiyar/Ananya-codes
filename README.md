@@ -77,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
+| [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |

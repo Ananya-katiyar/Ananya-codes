@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |

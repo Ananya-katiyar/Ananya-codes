@@ -76,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0113-path-sum-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0113-path-sum-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
 ## Divide and Conquer
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1845-seat-reservation-manager) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

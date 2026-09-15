@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0005-longest-palindromic-substring) |
 | [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Array
 |  |
 | ------- |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Ternary Search
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

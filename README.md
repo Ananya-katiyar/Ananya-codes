@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1143-longest-common-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1208-get-equal-substrings-within-budget) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1208-get-equal-substrings-within-budget) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Ternary Search
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0567-permutation-in-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1208-get-equal-substrings-within-budget) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0238-product-of-array-except-self) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1208-get-equal-substrings-within-budget) |
 ## Linked List
 |  |
 | ------- |

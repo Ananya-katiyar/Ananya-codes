@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/3875-construct-uniform-parity-array-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1208-get-equal-substrings-within-budget) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 ## Ternary Search
 |  |
 | ------- |
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0347-top-k-frequent-elements) |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 | [1845-seat-reservation-manager](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1845-seat-reservation-manager) |
 ## Bucket Sort
 |  |
@@ -173,10 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
 | [0993-cousins-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1367-linked-list-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -185,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/0113-path-sum-ii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Ananya-katiyar/Ananya-codes/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
